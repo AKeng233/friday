@@ -1,0 +1,4 @@
+export const NEXT_ITEM = 'NEXT_ITEM'
+export const CHOOSE_ITEM = 'CHOOSE_ITEM'
+export const REMBER_TIME = 'REMBER_TIME'
+export const INITIALIZE_DATA = 'INITIALIZE_DATA'
